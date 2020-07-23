@@ -5,7 +5,6 @@
 ![sample][logo]
 
 [logo]: https://github.com/adityarc19/yolact-plus/blob/master/ezgif.com-crop.gif
-This is a sample output on a single image
 
 
 YOLACT (You Only Look At Coefficients) is a simple, fully convolutional model for real-time instance segmentation. The latest version of it which was released on 16th Decemeber 2019, is called YOLACT++. It currently supports two backbone networks : Resnet50-FPN and Resnet101-FPN. I have used Resnet50 version for this project. It is originally trained on a very sophisticated graphics card, i.e., Titan Xp. That is the reason why I have not trained the model on my local computer and just used the pre-trained weights provided by the authors of this technology.
@@ -79,9 +78,18 @@ from matplotlib import pyplot as plt
 from pathlib import Path
 ```
 
+## Output
+
+Some sample output images after going through the training process are:
+
+![im1][l]
+
+[l]: https://github.com/adityarc19/yolact-plus/blob/master/output%20images/bears.png
 
 
+![im2][lo]
 
+[lo]: https://github.com/adityarc19/yolact-plus/blob/master/output%20images/plane.png
 
 
 
