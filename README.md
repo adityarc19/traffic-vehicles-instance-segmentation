@@ -4,7 +4,7 @@
 
 ![sample][logo]
 
-[logo]: https://github.com/adityarc19/yolact-plus/blob/master/output%20images/bears.png
+[logo]: https://github.com/adityarc19/yolact-plus/blob/master/ezgif.com-crop.gif
 This is a sample output on a single image
 
 
