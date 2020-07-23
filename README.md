@@ -15,9 +15,7 @@ Also, check out the original github repo of YOLACT [here](https://github.com/dbo
 
 ## Initial setup
 
-*Before starting the installation process, note that I have used **Google Colab** for this project. So if you're on some other platform, make the necessary changes accordingly, although I recommend using Colab as it provides a lot easier access to Google Drive which comes in handy when you have heavy files to upload and download.*
-
-Now run the following commands for the initial setup:
+Run the following commands for the initial setup:
 
 ```
 # Cython needs to be installed before pycocotools
@@ -32,9 +30,6 @@ Now run the following commands for the initial setup:
 ```
 
 ```
-# Make sure we're in the top folder
-%cd /content
-
 # Clone the yolact repo
 !git clone https://github.com/dbolya/yolact.git
 ```
@@ -80,12 +75,12 @@ Some sample output images after going through the training process are:
 
 ![im1][l]
 
-[l]: https://github.com/adityarc19/yolact-plus/blob/master/output%20images/bears.png
+[l]: (https://github.com/adityarc19/yolact-plus/blob/master/output%20images/bears.png =250x250)
 
 
 ![im2][lo]
 
-[lo]: https://github.com/adityarc19/yolact-plus/blob/master/output%20images/plane.png
+[lo]: (https://github.com/adityarc19/yolact-plus/blob/master/output%20images/plane.png =250x250)
 
 
 All of the output images are attached at : https://github.com/adityarc19/yolact-plus/tree/master/output%20images
