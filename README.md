@@ -73,7 +73,11 @@ from matplotlib import pyplot as plt
 from pathlib import Path
 ```
 
+## Training 
 
+I have used a video of cars and buses going by on a busy street. It also has pedestrians walking by the streets in a crowded fashion. The video is attached [here](https://github.com/adityarc19/yolact-plus/blob/master/taxi.mp4).
+
+After the training process was over, I got a pretty good result of an instance segmented video that is attached [here](https://github.com/adityarc19/yolact-plus/blob/master/taxi_output.mp4).
 
 
 
