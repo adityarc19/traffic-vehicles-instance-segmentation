@@ -1,4 +1,4 @@
-# Real time instance segmentation with YOLACT++
+# Real time traffic vehicles instance segmentation with YOLACT++
 
 **This work is inspired from [Immersive Limit](https://www.immersivelimit.com/tutorials/yolact-with-google-colab).**
 
