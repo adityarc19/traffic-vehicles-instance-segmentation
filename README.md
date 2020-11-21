@@ -1,6 +1,6 @@
 # Real time instance segmentation with YOLACT++
 
-**This is a real time instance segmentation task implemented with YOLACT++ and DCNv2 on Google Colab.**
+**This work is inspired from [Immersive Limit](https://www.immersivelimit.com/tutorials/yolact-with-google-colab).**
 
 ![im3][log]
 
